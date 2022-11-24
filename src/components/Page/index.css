@@ -1,0 +1,60 @@
+
+
+.logo {
+   display: block;
+   width: 20%;
+   margin-bottom: 80px;
+}
+
+.video {
+   width:100%;
+}
+
+.client {
+   margin: 40px 0 30px 0;
+   font-size: 2rem;
+}
+
+.test {
+   font-size: 2rem;
+   margin-bottom: 40px
+}
+
+.tester {
+   font-size: 1.6rem;
+}
+
+.transc-title {
+   margin: 35px 0 35px 0;
+   font-size: 1.6rem;
+}
+
+.transcription-tests {
+   overflow: scroll;
+   max-height: 300px;
+   max-width: 50%;
+   margin-bottom: 50px;
+   padding-right: 50px;
+   padding-bottom: 60px;
+   padding-left: 50px;
+   color: #fff;
+   font-size: 1.1rem;
+   line-height: 1.5rem;
+   font-weight: 400;
+   text-decoration: none;
+   text-transform: none;
+}
+
+.escenario {
+   width: 40%;
+}
+
+.tarea {
+   width: 40%;
+   padding: 20px;
+   border-top: 1px solid #fff;
+}
+
+.duration {
+   color: orange
+}
